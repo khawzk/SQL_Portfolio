@@ -8,4 +8,4 @@ I practiced data cleaning skills using data from [This link](https://github.com/
 
 ## Tableau Dashboard to show the findings in P1
 
-I created a Tableau dashboard to visualize the findings from P1. You can view the dashboard on[Link to Tableau Public](https://public.tableau.com/app/profile/khaw2413/viz/COVIDAnalysis_16789357362430/Dashboard1?publish=yes)
+I created a Tableau dashboard to visualize the findings from P1. You can view the dashboard on [Link to Tableau Public](https://public.tableau.com/app/profile/khaw2413/viz/COVIDAnalysis_16789357362430/Dashboard1?publish=yes)
